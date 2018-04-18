@@ -1,0 +1,10 @@
+C:\Users\MobyDi\Documents\Visual Studio Code\SoundGenerator\bin\Debug\netcoreapp2.0\SoundGenerator.deps.json
+C:\Users\MobyDi\Documents\Visual Studio Code\SoundGenerator\bin\Debug\netcoreapp2.0\SoundGenerator.runtimeconfig.json
+C:\Users\MobyDi\Documents\Visual Studio Code\SoundGenerator\bin\Debug\netcoreapp2.0\SoundGenerator.runtimeconfig.dev.json
+C:\Users\MobyDi\Documents\Visual Studio Code\SoundGenerator\bin\Debug\netcoreapp2.0\SoundGenerator.dll
+C:\Users\MobyDi\Documents\Visual Studio Code\SoundGenerator\bin\Debug\netcoreapp2.0\SoundGenerator.pdb
+C:\Users\MobyDi\Documents\Visual Studio Code\SoundGenerator\obj\Debug\netcoreapp2.0\SoundGenerator.csproj.CoreCompileInputs.cache
+C:\Users\MobyDi\Documents\Visual Studio Code\SoundGenerator\obj\Debug\netcoreapp2.0\SoundGenerator.AssemblyInfoInputs.cache
+C:\Users\MobyDi\Documents\Visual Studio Code\SoundGenerator\obj\Debug\netcoreapp2.0\SoundGenerator.AssemblyInfo.cs
+C:\Users\MobyDi\Documents\Visual Studio Code\SoundGenerator\obj\Debug\netcoreapp2.0\SoundGenerator.dll
+C:\Users\MobyDi\Documents\Visual Studio Code\SoundGenerator\obj\Debug\netcoreapp2.0\SoundGenerator.pdb
